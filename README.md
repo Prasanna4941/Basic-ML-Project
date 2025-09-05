@@ -68,7 +68,8 @@ Deploy using Streamlit or Flask.
 
 📷 Example Output
 Scatter plot of Sepal Length vs Petal Length showing different species:
+## 📷 Example Output
 
+Scatter plot of Sepal Length vs Petal Length showing different species:
 
-pgsql
-Copy code
+![Iris Scatter Plot](iris_scatter.png)
