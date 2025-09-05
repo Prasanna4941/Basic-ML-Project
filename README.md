@@ -65,8 +65,10 @@ jupyter notebook Iris.ipynb
 Try other ML models (Random Forest, Logistic Regression, KNN).
 
 Deploy using Streamlit or Flask.
-## 📷 Example Output
 
+📷 Example Output
 Scatter plot of Sepal Length vs Petal Length showing different species:
 
-![Iris Scatter Plot](iris_scatter.png)
+
+pgsql
+Copy code
